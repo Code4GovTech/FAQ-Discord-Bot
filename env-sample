@@ -1,3 +1,4 @@
 DISCORD_TOKEN=''
 CHANNELID=''
-APIURL='' // Example: 'http://127.0.0.1:8000/chatbot'
+APIURL=''
+MONGODB_URI=''
